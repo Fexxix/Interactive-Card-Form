@@ -19,7 +19,7 @@ body {
 .side-bar {
   width: 30%;
   position: relative;
-  background-image: url("./assets/bg-main-desktop-8bf4510a.png");
+  background-image: url("../assets/bg-main-desktop-8bf4510a.png");
   background-repeat: no-repeat;
   background-size: cover;
   user-select: none;
@@ -37,7 +37,7 @@ body {
 .side-bar .card-front-bg {
   width: var(--card-width-desktop);
   height: var(--card-height-desktop);
-  background-image: url("./assets/bg-card-front-5aca8db4.png");
+  background-image: url("../assets/bg-card-front-5aca8db4.png");
   background-size: contain;
   background-repeat: no-repeat;
   display: flex;
@@ -70,7 +70,7 @@ body {
 .side-bar .card-back-bg {
   width: var(--card-width-desktop);
   height: var(--card-height-desktop);
-  background-image: url("./assets/bg-card-back-503939c0.png");
+  background-image: url("../assets/bg-card-back-503939c0.png");
   background-size: contain;
   background-repeat: no-repeat;
   color: #fff;
